@@ -1,0 +1,8 @@
+﻿  css222Project1.cpp
+C:\Users\tomat\source\repos\css222Project1\css222Project1\css222Project1.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomat\source\repos\css222Project1\css222Project1\css222Project1.cpp(46,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomat\source\repos\css222Project1\css222Project1\css222Project1.cpp(47,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomat\source\repos\css222Project1\css222Project1\css222Project1.cpp(50,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomat\source\repos\css222Project1\css222Project1\css222Project1.cpp(57,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tomat\source\repos\css222Project1\css222Project1\css222Project1.cpp(65): warning C4715: 'compareTo': not all control paths return a value
+  css222Project1.vcxproj -> C:\Users\tomat\source\repos\css222Project1\Debug\css222Project1.exe
